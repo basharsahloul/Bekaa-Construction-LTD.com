@@ -462,10 +462,4 @@ display: flex;
 }
 
 
-@media (max-width: 300px) {
-    .banner {
-        background-position: center center;
-      
-    }
-}
 
